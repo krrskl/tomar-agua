@@ -1,0 +1,32 @@
+{
+  "es": {
+    "title": "Tomar Agua",
+    "message": "Es hora de tomar agua!",
+    "buttonText": "Ya he tomado.",
+    "popup": {
+      "txt1": "Indique el tiempo en el que se activará el recordatorio.",
+      "txt2": "Tiempo en minutos.",
+      "buttonPause": "PAUSAR",
+      "rights": { "made": "Hecho con", "by": "por" }
+    },
+    "languages": [
+      { "title": "ESPAÑOL", "value": "es" },
+      { "title": "INGLÉS", "value": "en" }
+    ]
+  },
+  "en": {
+    "title": "Drink water",
+    "message": "It's time to drink water!",
+    "buttonText": "I have already taken.",
+    "popup": {
+      "txt1": "Indicate the time in which the reminder will be activated.",
+      "txt2": "Time in minutes.",
+      "buttonPause": "PAUSE",
+      "rights": { "made": "Made with", "by": "by" }
+    },
+    "languages": [
+      { "title": "SPANISH", "value": "es" },
+      { "title": "ENGLISH", "value": "en" }
+    ]
+  }
+}
